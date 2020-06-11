@@ -1,0 +1,22 @@
+.self ul li {
+	padding-left:0px!important;
+}
+body{
+	overflow-x:hidden!important;
+	background-color: white !important;
+}
+.err_msg{
+	color:red;
+}
+.yamm .yamm-content ul li a, .navbar-nav > li > a {
+	padding: 0px 0 3px!important;
+}
+.u_name {
+	background-color:white;
+	border-radius:50%;
+	padding:15px;
+}
+.active_ver{
+	
+  color: white!important;
+}
